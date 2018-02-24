@@ -1,2 +1,2 @@
-# teste
+# Exercicios
 Primeiro exercicio e configuração
