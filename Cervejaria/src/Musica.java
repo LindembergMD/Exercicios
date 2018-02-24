@@ -26,7 +26,7 @@ public class Musica {
 					System.out.println("A freezer não será reabastecida. ");
 				}
 			}	
-		//dado.close(); //fechar dado
+		//dado.close(); //fechar dado 
 		}
 		
 	}
